@@ -65,3 +65,7 @@ gem 'capistrano', '~> 3.11'
 gem 'capistrano-rails', '~> 1.4'
 gem 'capistrano-passenger', '~> 0.2.0'
 gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
+
+gem 'spree', '~> 3.7.0'
+gem 'spree_auth_devise', '~> 3.5'
+gem 'spree_gateway', '~> 3.4'
